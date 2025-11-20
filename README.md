@@ -10,12 +10,15 @@ It includes experiments for real-time melody co-writing and analysis of creative
 - Symbolic melody generation and continuation using Transformer and RNN models  
 - Real-time co-creation pipeline (`run_anticipation.py`)  
 - Model comparison and evaluation tools  
-- Ready for ISMIR-style reproducibility (Python 3.8+)
+- Ready for ISMIR reproducibility (Python 3.8+)
 
 ### Model
 - [`stanford-crfm/music-small-800k`](https://huggingface.co/stanford-crfm/music-small-800k)
 - Autoregressive transformer trained on 800k MIDI sequences
 - Hosted via HuggingFace Transformers
+
+### Data and artifacts
+- Project materials and study artifacts: https://doi.org/10.17605/OSF.IO/P3HQG
 
 ## Quick Start
 
